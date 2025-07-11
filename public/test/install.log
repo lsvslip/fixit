@@ -1,0 +1,714 @@
+{
+    "timestamp": "2025-07-10T21:53:31+00:00",
+    "method": "POST",
+    "get": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "37e9f584d3108ec122f3d3638d61e79d"
+    },
+    "post": {
+        "AUTH_ID": "6a447068007a3ae80079b236000000010000075f7d59f28d7dc380d3c301d4059095de",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "5ac39768007a3ae80079b23600000001000007dec2324ec4e2c9a439729f659a7cd658",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"any\":\"6\\\/\"}"
+    },
+    "request": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "37e9f584d3108ec122f3d3638d61e79d",
+        "AUTH_ID": "6a447068007a3ae80079b236000000010000075f7d59f28d7dc380d3c301d4059095de",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "5ac39768007a3ae80079b23600000001000007dec2324ec4e2c9a439729f659a7cd658",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"any\":\"6\\\/\"}"
+    },
+    "headers": {
+        "Priority": "u=4",
+        "Sec-Fetch-Site": "cross-site",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Dest": "iframe",
+        "Upgrade-Insecure-Requests": "1",
+        "Cookie": "PHPSESSID=2a43hk33cqorkoe3b4d417j6ov",
+        "Referer": "https:\/\/b24-amepnm.bitrix24.ru\/",
+        "Connection": "keep-alive",
+        "Origin": "https:\/\/b24-amepnm.bitrix24.ru",
+        "Content-Length": "298",
+        "Content-Type": "application\/x-www-form-urlencoded",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+        "Accept-Language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+        "Accept": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,*\/*;q=0.8",
+        "User-Agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:138.0) Gecko\/20100101 Firefox\/138.0",
+        "Host": "app.fiqsit.ru"
+    }
+}
+
+{
+    "timestamp": "2025-07-10T22:27:47+00:00",
+    "method": "POST",
+    "get": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "ccdafb0d01efa405ccff0cc792819cf1"
+    },
+    "post": {
+        "AUTH_ID": "734c7068007a3ae80079b2360000000100000710969f3ae1bc433f72cdaeed65aaac8f",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "63cb9768007a3ae80079b2360000000100000704736449edee6a284c72956d4bb202cd",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"IFRAME\":\"Y\",\"IFRAME_TYPE\":\"SIDE_SLIDER\",\"any\":\"6\\\/\"}"
+    },
+    "request": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "ccdafb0d01efa405ccff0cc792819cf1",
+        "AUTH_ID": "734c7068007a3ae80079b2360000000100000710969f3ae1bc433f72cdaeed65aaac8f",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "63cb9768007a3ae80079b2360000000100000704736449edee6a284c72956d4bb202cd",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"IFRAME\":\"Y\",\"IFRAME_TYPE\":\"SIDE_SLIDER\",\"any\":\"6\\\/\"}"
+    },
+    "headers": {
+        "Priority": "u=4",
+        "Sec-Fetch-Site": "cross-site",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Dest": "iframe",
+        "Upgrade-Insecure-Requests": "1",
+        "Cookie": "PHPSESSID=2a43hk33cqorkoe3b4d417j6ov",
+        "Referer": "https:\/\/b24-amepnm.bitrix24.ru\/",
+        "Connection": "keep-alive",
+        "Origin": "https:\/\/b24-amepnm.bitrix24.ru",
+        "Content-Length": "363",
+        "Content-Type": "application\/x-www-form-urlencoded",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+        "Accept-Language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+        "Accept": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,*\/*;q=0.8",
+        "User-Agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:138.0) Gecko\/20100101 Firefox\/138.0",
+        "Host": "app.fiqsit.ru"
+    }
+}
+
+{
+    "timestamp": "2025-07-10T22:30:39+00:00",
+    "method": "POST",
+    "get": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "54f02d1733d79f377bec4bc1eacc0c67"
+    },
+    "post": {
+        "AUTH_ID": "1e4d7068007a3ae80079b2360000000100000768a5bda1b145d6296cabfeed2e4b8cfa",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "0ecc9768007a3ae80079b23600000001000007109d3a921c45fad6456100e79e69f7df",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"IFRAME\":\"Y\",\"IFRAME_TYPE\":\"SIDE_SLIDER\",\"any\":\"6\\\/\"}"
+    },
+    "request": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "54f02d1733d79f377bec4bc1eacc0c67",
+        "AUTH_ID": "1e4d7068007a3ae80079b2360000000100000768a5bda1b145d6296cabfeed2e4b8cfa",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "0ecc9768007a3ae80079b23600000001000007109d3a921c45fad6456100e79e69f7df",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"IFRAME\":\"Y\",\"IFRAME_TYPE\":\"SIDE_SLIDER\",\"any\":\"6\\\/\"}"
+    },
+    "headers": {
+        "Priority": "u=4",
+        "Sec-Fetch-Site": "cross-site",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Dest": "iframe",
+        "Upgrade-Insecure-Requests": "1",
+        "Cookie": "PHPSESSID=2a43hk33cqorkoe3b4d417j6ov",
+        "Referer": "https:\/\/b24-amepnm.bitrix24.ru\/",
+        "Connection": "keep-alive",
+        "Origin": "https:\/\/b24-amepnm.bitrix24.ru",
+        "Content-Length": "363",
+        "Content-Type": "application\/x-www-form-urlencoded",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+        "Accept-Language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+        "Accept": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,*\/*;q=0.8",
+        "User-Agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:138.0) Gecko\/20100101 Firefox\/138.0",
+        "Host": "app.fiqsit.ru"
+    }
+}
+
+{
+    "timestamp": "2025-07-10T22:33:21+00:00",
+    "method": "POST",
+    "get": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "ece444fecaaff06c1e8bb1e71f1b0077"
+    },
+    "post": {
+        "AUTH_ID": "c14d7068007a3ae80079b23600000001000007e55f289cd63943371a7b4539cc943e80",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "b1cc9768007a3ae80079b236000000010000073e0cb648862ec62d7503802801942f1d",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"IFRAME\":\"Y\",\"IFRAME_TYPE\":\"SIDE_SLIDER\",\"any\":\"6\\\/\"}"
+    },
+    "request": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "ece444fecaaff06c1e8bb1e71f1b0077",
+        "AUTH_ID": "c14d7068007a3ae80079b23600000001000007e55f289cd63943371a7b4539cc943e80",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "b1cc9768007a3ae80079b236000000010000073e0cb648862ec62d7503802801942f1d",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"IFRAME\":\"Y\",\"IFRAME_TYPE\":\"SIDE_SLIDER\",\"any\":\"6\\\/\"}"
+    },
+    "headers": {
+        "Priority": "u=4",
+        "Sec-Fetch-Site": "cross-site",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Dest": "iframe",
+        "Upgrade-Insecure-Requests": "1",
+        "Cookie": "PHPSESSID=2a43hk33cqorkoe3b4d417j6ov",
+        "Referer": "https:\/\/b24-amepnm.bitrix24.ru\/",
+        "Connection": "keep-alive",
+        "Origin": "https:\/\/b24-amepnm.bitrix24.ru",
+        "Content-Length": "363",
+        "Content-Type": "application\/x-www-form-urlencoded",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+        "Accept-Language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+        "Accept": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,*\/*;q=0.8",
+        "User-Agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:138.0) Gecko\/20100101 Firefox\/138.0",
+        "Host": "app.fiqsit.ru"
+    }
+}
+
+{
+    "timestamp": "2025-07-10T22:35:35+00:00",
+    "method": "POST",
+    "get": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "5a9ad43ca854b57f9d30e655d987fb67"
+    },
+    "post": {
+        "AUTH_ID": "474e7068007a3ae80079b23600000001000007dd8af35cd246a6cd48bb49719dccf0a3",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "37cd9768007a3ae80079b23600000001000007aeeb02e87e6a83c3b4fe7d61d0ee4355",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"IFRAME\":\"Y\",\"IFRAME_TYPE\":\"SIDE_SLIDER\",\"any\":\"6\\\/\"}"
+    },
+    "request": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "5a9ad43ca854b57f9d30e655d987fb67",
+        "AUTH_ID": "474e7068007a3ae80079b23600000001000007dd8af35cd246a6cd48bb49719dccf0a3",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "37cd9768007a3ae80079b23600000001000007aeeb02e87e6a83c3b4fe7d61d0ee4355",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"IFRAME\":\"Y\",\"IFRAME_TYPE\":\"SIDE_SLIDER\",\"any\":\"6\\\/\"}"
+    },
+    "headers": {
+        "Priority": "u=4",
+        "Sec-Fetch-Site": "cross-site",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Dest": "iframe",
+        "Upgrade-Insecure-Requests": "1",
+        "Cookie": "PHPSESSID=2a43hk33cqorkoe3b4d417j6ov",
+        "Referer": "https:\/\/b24-amepnm.bitrix24.ru\/",
+        "Connection": "keep-alive",
+        "Origin": "https:\/\/b24-amepnm.bitrix24.ru",
+        "Content-Length": "363",
+        "Content-Type": "application\/x-www-form-urlencoded",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+        "Accept-Language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+        "Accept": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,*\/*;q=0.8",
+        "User-Agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:138.0) Gecko\/20100101 Firefox\/138.0",
+        "Host": "app.fiqsit.ru"
+    }
+}
+
+{
+    "timestamp": "2025-07-10T22:36:12+00:00",
+    "method": "POST",
+    "get": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "05602ced2ceff8735fe71dd00c2e6add"
+    },
+    "post": {
+        "AUTH_ID": "6b4e7068007a3ae80079b236000000010000077ac124924450188ad9abd8e98ff63202",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "5bcd9768007a3ae80079b236000000010000073ee52b605e293a9f135ed4a0116f1085",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"any\":\"6\\\/\"}"
+    },
+    "request": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "05602ced2ceff8735fe71dd00c2e6add",
+        "AUTH_ID": "6b4e7068007a3ae80079b236000000010000077ac124924450188ad9abd8e98ff63202",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "5bcd9768007a3ae80079b236000000010000073ee52b605e293a9f135ed4a0116f1085",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"any\":\"6\\\/\"}"
+    },
+    "headers": {
+        "Priority": "u=4",
+        "Sec-Fetch-Site": "cross-site",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Dest": "iframe",
+        "Upgrade-Insecure-Requests": "1",
+        "Cookie": "PHPSESSID=2a43hk33cqorkoe3b4d417j6ov",
+        "Referer": "https:\/\/b24-amepnm.bitrix24.ru\/",
+        "Connection": "keep-alive",
+        "Origin": "https:\/\/b24-amepnm.bitrix24.ru",
+        "Content-Length": "298",
+        "Content-Type": "application\/x-www-form-urlencoded",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+        "Accept-Language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+        "Accept": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,*\/*;q=0.8",
+        "User-Agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:138.0) Gecko\/20100101 Firefox\/138.0",
+        "Host": "app.fiqsit.ru"
+    }
+}
+
+{
+    "timestamp": "2025-07-10T22:36:50+00:00",
+    "method": "POST",
+    "get": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "e4f744dcba7a827329e89820f0972754"
+    },
+    "post": {
+        "AUTH_ID": "914e7068007a3ae80079b236000000010000077cbbe54eaedc5c82831d98ad781f08e9",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "81cd9768007a3ae80079b2360000000100000781ea33845765a6c071682e58e4a9ec0e",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"any\":\"6\\\/\"}"
+    },
+    "request": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "e4f744dcba7a827329e89820f0972754",
+        "AUTH_ID": "914e7068007a3ae80079b236000000010000077cbbe54eaedc5c82831d98ad781f08e9",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "81cd9768007a3ae80079b2360000000100000781ea33845765a6c071682e58e4a9ec0e",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"any\":\"6\\\/\"}"
+    },
+    "headers": {
+        "Priority": "u=4",
+        "Sec-Fetch-Site": "cross-site",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Dest": "iframe",
+        "Upgrade-Insecure-Requests": "1",
+        "Cookie": "PHPSESSID=2a43hk33cqorkoe3b4d417j6ov",
+        "Referer": "https:\/\/b24-amepnm.bitrix24.ru\/",
+        "Connection": "keep-alive",
+        "Origin": "https:\/\/b24-amepnm.bitrix24.ru",
+        "Content-Length": "298",
+        "Content-Type": "application\/x-www-form-urlencoded",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+        "Accept-Language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+        "Accept": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,*\/*;q=0.8",
+        "User-Agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:138.0) Gecko\/20100101 Firefox\/138.0",
+        "Host": "app.fiqsit.ru"
+    }
+}
+
+{
+    "timestamp": "2025-07-10T22:36:53+00:00",
+    "method": "POST",
+    "get": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "a584d0a20f5c0440efe248c4775c6aca"
+    },
+    "post": {
+        "AUTH_ID": "954e7068007a3ae80079b236000000010000071baf0cbafb70cea68c2f3e66368a413f",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "85cd9768007a3ae80079b236000000010000079240c17059daab661f97ba9d89dcea04",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"IFRAME\":\"Y\",\"IFRAME_TYPE\":\"SIDE_SLIDER\",\"any\":\"6\\\/\"}"
+    },
+    "request": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "a584d0a20f5c0440efe248c4775c6aca",
+        "AUTH_ID": "954e7068007a3ae80079b236000000010000071baf0cbafb70cea68c2f3e66368a413f",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "85cd9768007a3ae80079b236000000010000079240c17059daab661f97ba9d89dcea04",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"IFRAME\":\"Y\",\"IFRAME_TYPE\":\"SIDE_SLIDER\",\"any\":\"6\\\/\"}"
+    },
+    "headers": {
+        "Priority": "u=4",
+        "Sec-Fetch-Site": "cross-site",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Dest": "iframe",
+        "Upgrade-Insecure-Requests": "1",
+        "Cookie": "PHPSESSID=2a43hk33cqorkoe3b4d417j6ov",
+        "Referer": "https:\/\/b24-amepnm.bitrix24.ru\/",
+        "Connection": "keep-alive",
+        "Origin": "https:\/\/b24-amepnm.bitrix24.ru",
+        "Content-Length": "363",
+        "Content-Type": "application\/x-www-form-urlencoded",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+        "Accept-Language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+        "Accept": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,*\/*;q=0.8",
+        "User-Agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:138.0) Gecko\/20100101 Firefox\/138.0",
+        "Host": "app.fiqsit.ru"
+    }
+}
+
+{
+    "timestamp": "2025-07-10T22:36:59+00:00",
+    "method": "POST",
+    "get": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "e67f13ec0b59b810ea2016de9b9193c1"
+    },
+    "post": {
+        "AUTH_ID": "9b4e7068007a3ae80079b23600000001000007f62fe77ac69d8709bc2a0c21bd4e70be",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "8bcd9768007a3ae80079b23600000001000007e8651a6db473e662587f2b82b6f770d8",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"any\":\"6\\\/\"}"
+    },
+    "request": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "e67f13ec0b59b810ea2016de9b9193c1",
+        "AUTH_ID": "9b4e7068007a3ae80079b23600000001000007f62fe77ac69d8709bc2a0c21bd4e70be",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "8bcd9768007a3ae80079b23600000001000007e8651a6db473e662587f2b82b6f770d8",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"any\":\"6\\\/\"}"
+    },
+    "headers": {
+        "Priority": "u=4",
+        "Sec-Fetch-Site": "cross-site",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Dest": "iframe",
+        "Upgrade-Insecure-Requests": "1",
+        "Cookie": "PHPSESSID=2a43hk33cqorkoe3b4d417j6ov",
+        "Referer": "https:\/\/b24-amepnm.bitrix24.ru\/",
+        "Connection": "keep-alive",
+        "Origin": "https:\/\/b24-amepnm.bitrix24.ru",
+        "Content-Length": "298",
+        "Content-Type": "application\/x-www-form-urlencoded",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+        "Accept-Language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+        "Accept": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,*\/*;q=0.8",
+        "User-Agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:138.0) Gecko\/20100101 Firefox\/138.0",
+        "Host": "app.fiqsit.ru"
+    }
+}
+
+{
+    "timestamp": "2025-07-10T22:37:25+00:00",
+    "method": "POST",
+    "get": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "9fa215800f464eed9e28869ac368c8d9"
+    },
+    "post": {
+        "AUTH_ID": "b54e7068007a3ae80079b23600000001000007d6260978afc11503f9bb56f035034bf6",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "a5cd9768007a3ae80079b236000000010000078fd76610b4feed391820a83a6f2e2bcd",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"any\":\"6\\\/\"}"
+    },
+    "request": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "9fa215800f464eed9e28869ac368c8d9",
+        "AUTH_ID": "b54e7068007a3ae80079b23600000001000007d6260978afc11503f9bb56f035034bf6",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "a5cd9768007a3ae80079b236000000010000078fd76610b4feed391820a83a6f2e2bcd",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"any\":\"6\\\/\"}"
+    },
+    "headers": {
+        "Priority": "u=4",
+        "Sec-Fetch-Site": "cross-site",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Dest": "iframe",
+        "Upgrade-Insecure-Requests": "1",
+        "Cookie": "PHPSESSID=2a43hk33cqorkoe3b4d417j6ov",
+        "Referer": "https:\/\/b24-amepnm.bitrix24.ru\/",
+        "Connection": "keep-alive",
+        "Origin": "https:\/\/b24-amepnm.bitrix24.ru",
+        "Content-Length": "298",
+        "Content-Type": "application\/x-www-form-urlencoded",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+        "Accept-Language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+        "Accept": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,*\/*;q=0.8",
+        "User-Agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:138.0) Gecko\/20100101 Firefox\/138.0",
+        "Host": "app.fiqsit.ru"
+    }
+}
+
+{
+    "timestamp": "2025-07-10T22:39:23+00:00",
+    "method": "POST",
+    "get": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "4fa4d9df488b3dbdd07bbde95fe9dc6b"
+    },
+    "post": {
+        "AUTH_ID": "2b4f7068007a3ae80079b236000000010000070ba37d33f1ee27cb9d11fb994393450e",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "1bce9768007a3ae80079b2360000000100000777936ba5cd069e62584c3182b0cf3749",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"IFRAME\":\"Y\",\"IFRAME_TYPE\":\"SIDE_SLIDER\",\"any\":\"6\\\/\"}"
+    },
+    "request": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "4fa4d9df488b3dbdd07bbde95fe9dc6b",
+        "AUTH_ID": "2b4f7068007a3ae80079b236000000010000070ba37d33f1ee27cb9d11fb994393450e",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "1bce9768007a3ae80079b2360000000100000777936ba5cd069e62584c3182b0cf3749",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"IFRAME\":\"Y\",\"IFRAME_TYPE\":\"SIDE_SLIDER\",\"any\":\"6\\\/\"}"
+    },
+    "headers": {
+        "Priority": "u=4",
+        "Sec-Fetch-Site": "cross-site",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Dest": "iframe",
+        "Upgrade-Insecure-Requests": "1",
+        "Cookie": "PHPSESSID=2a43hk33cqorkoe3b4d417j6ov",
+        "Referer": "https:\/\/b24-amepnm.bitrix24.ru\/",
+        "Connection": "keep-alive",
+        "Origin": "https:\/\/b24-amepnm.bitrix24.ru",
+        "Content-Length": "363",
+        "Content-Type": "application\/x-www-form-urlencoded",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+        "Accept-Language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+        "Accept": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,*\/*;q=0.8",
+        "User-Agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:138.0) Gecko\/20100101 Firefox\/138.0",
+        "Host": "app.fiqsit.ru"
+    }
+}
+
+{
+    "timestamp": "2025-07-10T22:40:04+00:00",
+    "method": "POST",
+    "get": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "ac69fb55822703110f2d282048ad6247"
+    },
+    "post": {
+        "AUTH_ID": "544f7068007a3ae80079b23600000001000007e49bbbf4383e787be583d908ee5861f3",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "44ce9768007a3ae80079b2360000000100000793accd969a9e96f094e0eacf7fadce7d",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"any\":\"6\\\/\"}"
+    },
+    "request": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "ac69fb55822703110f2d282048ad6247",
+        "AUTH_ID": "544f7068007a3ae80079b23600000001000007e49bbbf4383e787be583d908ee5861f3",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "44ce9768007a3ae80079b2360000000100000793accd969a9e96f094e0eacf7fadce7d",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"any\":\"6\\\/\"}"
+    },
+    "headers": {
+        "Priority": "u=4",
+        "Sec-Fetch-Site": "cross-site",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Dest": "iframe",
+        "Upgrade-Insecure-Requests": "1",
+        "Cookie": "PHPSESSID=2a43hk33cqorkoe3b4d417j6ov",
+        "Referer": "https:\/\/b24-amepnm.bitrix24.ru\/",
+        "Connection": "keep-alive",
+        "Origin": "https:\/\/b24-amepnm.bitrix24.ru",
+        "Content-Length": "298",
+        "Content-Type": "application\/x-www-form-urlencoded",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+        "Accept-Language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+        "Accept": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,*\/*;q=0.8",
+        "User-Agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:138.0) Gecko\/20100101 Firefox\/138.0",
+        "Host": "app.fiqsit.ru"
+    }
+}
+
+{
+    "timestamp": "2025-07-10T22:42:38+00:00",
+    "method": "POST",
+    "get": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "8d7712e8761d18de78371af3b29b77a4"
+    },
+    "post": {
+        "AUTH_ID": "ee4f7068007a3ae80079b23600000001000007f5ad8db9c8bcc6b846b1b776a9865872",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "dece9768007a3ae80079b2360000000100000722bfa42c934bd7ca8fd9d54bd0d7b6cd",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"IFRAME\":\"Y\",\"IFRAME_TYPE\":\"SIDE_SLIDER\",\"any\":\"6\\\/\"}"
+    },
+    "request": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "8d7712e8761d18de78371af3b29b77a4",
+        "AUTH_ID": "ee4f7068007a3ae80079b23600000001000007f5ad8db9c8bcc6b846b1b776a9865872",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "dece9768007a3ae80079b2360000000100000722bfa42c934bd7ca8fd9d54bd0d7b6cd",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"IFRAME\":\"Y\",\"IFRAME_TYPE\":\"SIDE_SLIDER\",\"any\":\"6\\\/\"}"
+    },
+    "headers": {
+        "Priority": "u=4",
+        "Sec-Fetch-Site": "cross-site",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Dest": "iframe",
+        "Upgrade-Insecure-Requests": "1",
+        "Cookie": "PHPSESSID=2a43hk33cqorkoe3b4d417j6ov",
+        "Referer": "https:\/\/b24-amepnm.bitrix24.ru\/",
+        "Connection": "keep-alive",
+        "Origin": "https:\/\/b24-amepnm.bitrix24.ru",
+        "Content-Length": "363",
+        "Content-Type": "application\/x-www-form-urlencoded",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+        "Accept-Language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+        "Accept": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,*\/*;q=0.8",
+        "User-Agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:138.0) Gecko\/20100101 Firefox\/138.0",
+        "Host": "app.fiqsit.ru"
+    }
+}
+
+{
+    "timestamp": "2025-07-10T22:44:27+00:00",
+    "method": "POST",
+    "get": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "658a4ccc08b5fcbca9092cf2b13bc58d"
+    },
+    "post": {
+        "AUTH_ID": "5a507068007a3ae80079b23600000001000007956c0ad523c822a82b5a15986b567355",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "4acf9768007a3ae80079b23600000001000007d493060e5cfaf2ae3ba07aa61003c288",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"IFRAME\":\"Y\",\"IFRAME_TYPE\":\"SIDE_SLIDER\",\"any\":\"6\\\/\"}"
+    },
+    "request": {
+        "DOMAIN": "b24-amepnm.bitrix24.ru",
+        "PROTOCOL": "1",
+        "LANG": "ru",
+        "APP_SID": "658a4ccc08b5fcbca9092cf2b13bc58d",
+        "AUTH_ID": "5a507068007a3ae80079b23600000001000007956c0ad523c822a82b5a15986b567355",
+        "AUTH_EXPIRES": "3600",
+        "REFRESH_ID": "4acf9768007a3ae80079b23600000001000007d493060e5cfaf2ae3ba07aa61003c288",
+        "member_id": "ae2dbb37f08bcd538193935997012b06",
+        "status": "L",
+        "PLACEMENT": "DEFAULT",
+        "PLACEMENT_OPTIONS": "{\"IFRAME\":\"Y\",\"IFRAME_TYPE\":\"SIDE_SLIDER\",\"any\":\"6\\\/\"}"
+    },
+    "headers": {
+        "Priority": "u=4",
+        "Sec-Fetch-Site": "cross-site",
+        "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Dest": "iframe",
+        "Upgrade-Insecure-Requests": "1",
+        "Cookie": "PHPSESSID=2a43hk33cqorkoe3b4d417j6ov",
+        "Referer": "https:\/\/b24-amepnm.bitrix24.ru\/",
+        "Connection": "keep-alive",
+        "Origin": "https:\/\/b24-amepnm.bitrix24.ru",
+        "Content-Length": "363",
+        "Content-Type": "application\/x-www-form-urlencoded",
+        "Accept-Encoding": "gzip, deflate, br, zstd",
+        "Accept-Language": "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3",
+        "Accept": "text\/html,application\/xhtml+xml,application\/xml;q=0.9,*\/*;q=0.8",
+        "User-Agent": "Mozilla\/5.0 (X11; Linux x86_64; rv:138.0) Gecko\/20100101 Firefox\/138.0",
+        "Host": "app.fiqsit.ru"
+    }
+}
+

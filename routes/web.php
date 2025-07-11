@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\BitrixInstallController;
+use App\Http\Controllers\TaskController;
 
 /*
 |--------------------------------------------------------------------------
@@ -13,6 +15,18 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+//Route::get('/', function () {
+//    return view('welcome');
+//});
+
+Route::get('/', [TaskController::class, 'showForm']);  // открытие по корневому URL
+Route::get('/task/form', [TaskController::class, 'showForm']);  // для совместимости
+Route::post('/task/create', [TaskController::class, 'create']);
+
+// install.php для Bitrix24
+Route::any('/bitrix/install', [BitrixInstallController::class, 'install']);
+
+// Создание задачи
+//Route::get('/task/form', [App\Http\Controllers\TaskController::class, 'showForm']);
+//Route::post('/task/create', [App\Http\Controllers\TaskController::class, 'create']);
+
