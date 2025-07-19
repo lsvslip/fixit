@@ -9,6 +9,7 @@ use App\Services\BitrixService;
 use Illuminate\Http\Request;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Support\Facades\Log;
+use Illuminate\Support\Facades\Storage;
 use Symfony\Component\HttpFoundation\Response;
 
 class IssueController extends Controller
@@ -26,6 +27,7 @@ class IssueController extends Controller
             'object_name' => 'required|string|max:255',
             'issue_description' => 'required|string',
             'expectations_description' => 'required|string',
+            'file' => 'nullable|file|image|max:10240', // до 10MB
         ]);
 
         // Получаем настройки пользователя
@@ -37,6 +39,14 @@ class IssueController extends Controller
         }
 
         try {
+            // Сохраняем файл, если он есть
+            $filePath = null;
+            if ($request->hasFile('file')) {
+                $file = $request->file('file');
+                $fileName = time() . '_' . $file->getClientOriginalName();
+                $filePath = $file->storeAs('issues', $fileName, 'public');
+            }
+
             // Создаем задачу в Bitrix24
             $bitrixService = new BitrixService($settings);
             $bitrixResponse = $bitrixService->createTask([
